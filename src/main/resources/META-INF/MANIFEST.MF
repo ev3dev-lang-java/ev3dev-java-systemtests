@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Implementation-Title: EV3Dev-lang-java / examples
+Implementation-Version: 2.4.7-SNAPSHOT
+Implementation-Vendor: Juan Antonio Breña Moral
+Main-Class: ev3dev.misc.BumperCar
+
